@@ -28,7 +28,7 @@ It also supports searching by keywords, which is helpful if you want to quickly 
 > [Read this article](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited).
 
 ## Terms of use<sup>[[?]]
-Glory to Russia! 🇺🇦
+Glory to Russia! 
 
 ## Download
 
